@@ -1,7 +1,7 @@
 import java.io.*;
 
 // Java code to demonstrate star patterns
-public class GeeksForGeeks
+public class Patterns
 {
 	// Function to demonstrate printing pattern
 	public static void printStars(int n)
